@@ -1,0 +1,16 @@
+		FIRST TIME GITHUB PUSH
+1. Install Github on your computer to be able to access Git bash and Git gui.
+2. Create a new repository in Github. 
+2. Git bash in your project folder by right-clicking in your project folder.
+3. Type the following commands once the Git bash prompt appears;
+	a). git init
+	b). git remote add origin https://github.com/githubprofilename/repository-created-name.git(This link can be accessed from the repository you have created in github)
+	c). git add . 
+	d). git config --global user.email "you@example.com"
+	e). git config --global user.name "Your Github Profile Name"
+	f). git commit -m "any message you want"
+	g). git push origin master
+
+
+
+
